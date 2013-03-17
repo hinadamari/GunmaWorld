@@ -1,0 +1,12 @@
+##  Plugin Information  ##
+name: GunmaWorld
+version: 1.0
+main: hinadamari.gunmaworld.GunmaWorld
+##  Original Author     ##
+author: hinadamari
+##  Command             ##
+commands:
+    gunmaworld:
+        description: Reloads the GunmaWorld configuration file.
+        usage: /gunmaworld reload
+        aliases: [gunma]
